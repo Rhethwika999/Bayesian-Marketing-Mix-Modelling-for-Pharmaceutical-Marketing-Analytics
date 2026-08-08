@@ -232,22 +232,7 @@ This model enables businesses to:
 - Optimise future marketing budget allocation.
 - Support data-driven marketing strategy and investment decisions.
 
----
 
-# Repository Structure
-
-```text
-.
-├── mmx_linear_model_example.ipynb
-├── mmx_bayesian_model_example.ipynb
-├── datasets
-│   ├── cough_and_cold_sales.csv
-│   ├── pain_killer_sales.csv
-│   └── simple_data_sample.csv
-└── README.md
-```
-
----
 
 # Future Enhancements
 
